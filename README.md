@@ -1,1 +1,1 @@
-# egzOPP
+ši programa, suskaičiuoja kiek yra skirtingų žodžių duom.txt faile. Suranda kurioje eiluteje randasi kiekvienas žodis, bei išrenka URL.
